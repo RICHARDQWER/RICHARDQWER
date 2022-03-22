@@ -1,4 +1,3 @@
-- 👋 olá meu nome é RICHARD
+- 👋 olá meu nome é **RICHARD**
 - 👀 estou interesado em  aprender  programação
-- 🌱 estou começando agora
-
+- 🌱 estou começa agora!e esse È meu gmail para contato [gmail](brito.richard@gmail.com)
